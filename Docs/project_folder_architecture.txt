@@ -1,0 +1,38 @@
+stock_Sense_ai /
+data/raw/
+    /processed/
+    /external/
+
+src /data/
+    /features/
+    /models/
+    /analysis/
+    /sentimaent/
+    /utils/
+
+Notebooks   /01_data_collection.ipynb
+            /02_eda.ipynb
+            /03_feature_engineering.ipynb
+            /04_model_training.ipynb
+            /05_model_evaluation.ipynb
+
+docs /project_folder_architecture.png
+     /project_folder_architecture.txt
+     /methodology.md 
+     /data_dictionary.md
+
+database /
+
+models /
+
+dashboard /
+
+reports /
+
+requirements.txt
+main.py
+config.py
+README.md
+
+
+
