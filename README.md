@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StockSense AI 📈
 
 ### Intelligent Stock Market Analytics, Forecasting & Risk Intelligence Platform
@@ -333,3 +334,7 @@ explicitly granting reuse rights.
 
 *Built with Python, data, curiosity, and a zero-budget mindset.*
 # StockSense-AI
+=======
+# StockSense-AI
+AI-powered stock market intelligence, forecasting, sentiment analysis and risk analytics platform.
+>>>>>>> 32ffbca3ca3fd07706e62aed3d8b5fafa5ded6de
